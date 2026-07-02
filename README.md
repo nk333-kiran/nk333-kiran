@@ -30,12 +30,106 @@
 🎯 Goal: Become a Software Engineer at top product companies
 
 ---
+# 🛠 Technical Skills
 
-# 🛠 Tech Stack
+## 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,php,mongodb,mysql,java,python,git,github,vscode,postman,docker,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&perline=6" />
 </p>
+
+**Additional Frontend Skills:**
+Responsive Design • Flexbox • CSS Grid • GSAP • AOS • Chart.js • Component Architecture • API Integration
+
+---
+
+## ⚙ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php&perline=6" />
+</p>
+
+**Backend Skills:**
+REST APIs • CRUD Operations • Server Routing • Middleware • Error Handling • Pagination
+
+---
+
+## 🗄 Database & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" />
+</p>
+
+**Database Skills:**
+Mongoose • Schema Design • Query Optimization • Indexing • MongoDB Atlas
+
+---
+
+## 🔐 Authentication & Security
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase&perline=6" />
+</p>
+
+**Security Skills:**
+JWT Authentication • bcrypt Password Hashing • Role-Based Access Control • Protected Routes • CORS • Environment Variables
+
+---
+
+## 🤖 AI / Machine Learning / Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=6" />
+</p>
+
+**AI / ML Skills:**
+Machine Learning Basics • Data Preprocessing • Model Training • Prediction Systems • AI API Integration • Data Analytics • Power BI • scikit-learn
+
+---
+
+## 🛠 Dev Tools & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&perline=6" />
+</p>
+
+**DevOps Skills:**
+Version Control • Deployment • Render • Vercel • Debugging • API Testing
+
+---
+
+## 🎨 UI / UX & Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma&perline=6" />
+</p>
+
+**Design Skills:**
+Wireframing • Prototyping • User Research • Canva • Premium UI Design • Mobile-First Design
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript&perline=6" />
+</p>
+
+---
+
+## 💬 Communication & Professional Skills
+
+✔ Problem Solving
+✔ Team Collaboration
+✔ Leadership
+✔ Presentation Skills
+✔ Technical Documentation
+✔ Agile Workflow
+✔ Project Management
+✔ Analytical Thinking
+✔ Communication Skills
+✔ Time Management
+
 
 ### Additional Skills
 
